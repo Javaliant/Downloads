@@ -1,7 +1,7 @@
 #Chat App Demo supported by RasPi
 ![Logo](https://github.com/Javaliant/Downloads/blob/master/icon.png?raw=true)
 
-A **Java 8 Runtime Environment** is required to use it<sup>1</sup>. 
+**JRE 1.8.0_40** is required to use it<sup>1</sup>. 
 
 You may check which version you currently have by typing `java -version` via your command line interface.
 
